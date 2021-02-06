@@ -1,0 +1,7 @@
+Dunarea,2888
+Tarnava,221
+Nile,6650
+Arion,1000
+Lena,440
+Amazon,6575
+Volga,3645
